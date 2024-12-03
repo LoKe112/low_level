@@ -1,0 +1,18 @@
+EXPORTS 
+	?_OptionsStorage@?1??__local_stdio_printf_options@@9@4_KA 	 DATA
+	??$_Getvals@_W@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IEAAX_WAEBV_Locinfo@1@@Z
+	??$_Getvals@_W@?$time_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@IEAAX_WAEBV_Locinfo@1@@Z
+	??$_Maklocstr@D@std@@YAPEADPEBDPEADAEBU_Cvtvec@@@Z
+	??$_Maklocstr@_W@std@@YAPEA_WPEBDPEA_WAEBU_Cvtvec@@@Z
+	??$pow@HH$0A@@@YANHH@Z
+	?_Maklocwcs@std@@YAPEA_WPEB_W@Z
+	?__empty_global_delete@@YAXPEAX@Z
+	?__empty_global_delete@@YAXPEAXW4align_val_t@std@@@Z
+	?__empty_global_delete@@YAXPEAX_K@Z
+	?__empty_global_delete@@YAXPEAX_KW4align_val_t@std@@@Z
+	?access2@@YAXHNN@Z
+	__local_stdio_printf_options
+	_vfprintf_s_l
+	main
+	printf_s
+	wmemcpy

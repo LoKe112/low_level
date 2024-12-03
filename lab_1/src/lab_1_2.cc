@@ -10,7 +10,7 @@ int main() {
 input_loop:
     if (i >= n) goto prepare;
     scanf_s("%d", &arr[i]);
-    i++;
+    i = i +1;
     goto input_loop;
 
 prepare:
